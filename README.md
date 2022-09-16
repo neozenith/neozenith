@@ -1,7 +1,7 @@
 ## Josh Peak (He/Him)
 ### Data Scientist 👨‍🔬  | Data Engineer 👨‍💻 | Meetup Organiser 👋
 ---
-| ✍️[Blog](https://joshpeak.net/) | 🤝[LinkedIn](https://au.linkedin.com/in/neozenith) | 🐦[Twitter](https://twitter.com/_neozenith) |
+| ✍️[Blog](https://joshpeak.net/) | 🤝[LinkedIn](https://www.linkedin.com/in/josh-peak/) | 🐦[Twitter](https://twitter.com/_neozenith) |
 |-|-|-|
 ---
 
